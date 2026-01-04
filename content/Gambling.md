@@ -1,6 +1,7 @@
 ---
-Last edited time: 2025-09-01T19:21:00
+{"publish":true,"created":"2025-12-17T02:09:16.548+11:00","modified":"2025-12-21T02:16:11.048+11:00","cssclasses":""}
 ---
+
 
 Gambling functions as per the [Gambling](https://www.dndbeyond.com/sources/dnd/xgte/downtime-revisited#Gambling) downtime activity from XGtE, with the following modifications:
 
