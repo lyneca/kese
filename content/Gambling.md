@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T02:09:16.548+11:00","modified":"2025-12-21T02:16:11.048+11:00","cssclasses":""}
+{"publish":true,"created":"2025-12-17T02:09:16.548+11:00","modified":"2026-01-05T02:57:59.899+11:00","cssclasses":""}
 ---
 
 
@@ -14,19 +14,3 @@ Gambling functions as per the [Gambling](https://www.dndbeyond.com/sources/dnd/x
 1. Roll 1d10+7 for the Insight check.
 2. Roll 1d10+7 for the Deception check.
 3. Roll 1d10+7 for the Intimidation check.
-
-DC15, hit 14
-
-DC8, hit 20
-
-DC18, hit 22
-
-2/6 success, +250gp
-
-DC15, hit 3
-
-DC14, hit 22
-
-DC15, hit 5
-
-3/6 successes, -250gp

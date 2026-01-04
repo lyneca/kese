@@ -1,0 +1,1 @@
+Any ability, spell, item, or other action that uses your Bonus Action can instead be used with your Action. For example, a character could drink a potion with their Main Action and Misty Step with their Bonus Action.
