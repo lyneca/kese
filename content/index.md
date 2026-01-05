@@ -1,20 +1,6 @@
 ---
-{"publish":true,"title":"The Lands of Kese","created":"2026-01-05T02:11:53.512+11:00","modified":"2026-01-05T03:06:58.165+11:00","cssclasses":""}
+{"publish":true,"title":"The Lands of Kese","created":"2026-01-05T02:11:53.512+11:00","modified":"2026-01-05T11:24:16.150+11:00","cssclasses":""}
 ---
 
 
 Welcome to the Lands of Kese. Please follow the links on the sidebar.
-
-
-
-
-
-- **Homebrew**
-	- [[Homebrew/Circumstance Bonuses]]
-	- [[Homebrew/Flexible Bonus Actions]]
-	- [[Homebrew/Inspiration]]
-	- [[Homebrew/Spell Scrolls]]
-- [[Gambling]]
-- [[index]]
-- [[State of the Continent]]
-
